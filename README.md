@@ -13,7 +13,7 @@ yogeshkumbhar188@gmail.com
 https://yogeshkumbhar.netlify.app/
 
 #### Deployed at (link) to see the app in working:
-https://yvzlu3.csb.app/
+https://indian-food-recommender-app.netlify.app/
 
 #### Here is the screenshot of the app
 
